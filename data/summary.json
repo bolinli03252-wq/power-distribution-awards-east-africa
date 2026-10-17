@@ -1,0 +1,58 @@
+{
+ "kenya": {
+  "records": 215,
+  "usd_total_approx": 85256976,
+  "first": "2018-09-11",
+  "last": "2026-07-03",
+  "top_buyers_usd": [
+   [
+    "Rural Electrification Authority",
+    49125749
+   ],
+   [
+    "Kenya Power & Lighting Company",
+    21164165
+   ],
+   [
+    "Kenya Ports Authority",
+    8402215
+   ],
+   [
+    "Kenya Electricity  Generating Company",
+    3788128
+   ],
+   [
+    "Kenya Electricity Transmission Company LTD",
+    1280693
+   ]
+  ]
+ },
+ "tanzania": {
+  "records": 305,
+  "usd_total_approx": 52114966,
+  "first": "2023-12-27",
+  "last": "2026-02-05",
+  "top_buyers_usd": [
+   [
+    "TANZANIA ELECTRIC SUPPLY COMPANY LIMITED",
+    39518572
+   ],
+   [
+    "RURAL ENERGY AGENCY",
+    4395427
+   ],
+   [
+    "ELECTRICAL TRANSMISSION AND DISTRIBUTION CONSTRUCTION AND MAINTENANCE COMPANY LIMITED",
+    2159346
+   ],
+   [
+    "Tanzania Telecommunications Corporation",
+    1255518
+   ],
+   [
+    "NATIONAL HOUSING CORPORATION",
+    563991
+   ]
+  ]
+ }
+}
